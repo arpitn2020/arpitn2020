@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arpit
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Terraform
+- 🌱 I’m currently working with IBM India Software Lab 
 - 💞️ I’m looking to collaborate on development
 - 📫 How to reach me arpit.nanavati@ibm.com
 
