@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Terraform
 - 💞️ I’m looking to collaborate on development
-- 📫 How to reach me arpitn.2020@gmail.com
+- 📫 How to reach me arpit.nanavati@ibm.com
 
 <!---
 arpitn2020/arpitn2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
